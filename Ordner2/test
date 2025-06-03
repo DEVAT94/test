@@ -1,0 +1,2 @@
+int zahl = 0;
+Console.WriteLine(zahl);
